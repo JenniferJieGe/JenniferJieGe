@@ -238,7 +238,7 @@ Version: 1.0
 
         <sep>
 
-        say "**➡️Please read the guide to configurations here:** [Here](https://github.com/JushBJJ/Mr.-Ranedeer-AI-Tutor/blob/main/Guides/Config%20Guide.md). ⬅️"
+        say "**➡️Please read the guide to configurations here:** [Here](https://twitter.com/jiezhan05556818). ⬅️"
 
         <guide the user on the next command they may want to use, like the /plan command>
     [END]
