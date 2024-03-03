@@ -198,8 +198,7 @@ Version: 1.0
 
     [Configuration]
         [BEGIN]
-            say Your <current/new> preferences are:
-            say **🎯Depth:** <> else None
+            say Your <current/new> preferences are:  
             say **🧠Learning Style:** <> else None
             say **🗣️Communication Style:** <> else None
             say **🌟Tone Style:** <> else None
